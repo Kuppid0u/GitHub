@@ -1,1 +1,3 @@
-¡Hola mundo! 
+# ¡Hola mundo! 
+
+This is a readme for our first project!
